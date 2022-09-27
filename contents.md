@@ -5,7 +5,7 @@
 - Aliases are great - i.e. oh-my-zsh plugins:  
   `git push --force-with-lease` becomes `gpf`
 - Haven't done, but switch `esc` and `capslock`
-- Look for shortcut opportunities when doing easy tasks
+- Look for shortcut opportunities when doing easy tasks. They're often written down!
 
 ## General
 
