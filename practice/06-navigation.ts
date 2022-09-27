@@ -17,9 +17,6 @@ const functionWithNesting = () => {
 /**
  * Go back/forward
  * `ctrl+-` / `ctrl+shift+-`
- *
- * Go to line
- * `ctrl+g`
  */
 
 /**

@@ -83,11 +83,3 @@ aligned...
 This is not code...
 Make us a comment, please!
 const actual = "code";
-
-/**
- * Insert line below/above
- * `cmd+enter` / `cmd+shift+enter`
- * 
- * @todo Add a new line from the middle of the following
- */
-const go = "to somewhere in the middle and add a new line";

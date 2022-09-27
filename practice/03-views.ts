@@ -5,17 +5,10 @@
 
 /**
  * Show specific sidebars
- * Explorer: `cmd+shift+e`
- * Search:   `cmd+shift+f`
- *
- * ...or via quick view
- * `ctrl+q` (_not_ `cmd+q`)
+ * Search: `cmd+shift+f`
  */
 
 /**
  * Toggle Terminal
  * ``ctrl+` ``
- *
- * New terminal
- * ``ctrl+shift+` ``
  */

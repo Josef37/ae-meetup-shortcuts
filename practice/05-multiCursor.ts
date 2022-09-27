@@ -14,11 +14,11 @@ console.log(foo.some);
  * Select all occurrences
  * `cmd+shift+l`
  *
- * @todo Overwrite all occurrences of "Project" with "Item"
+ * @todo Overwrite all occurrences of "Something" with "Anything"
  */
-const Project = () => ({ findProject: () => {} });
-const ProjectInstance = Project();
-ProjectInstance.findProject();
+const Something = () => ({ findSomething: () => {} });
+const SomethingInstance = Something();
+SomethingInstance.findSomething();
 
 /**
  * Multi-cursor
