@@ -7,11 +7,9 @@
  * Show specific sidebars
  * Explorer: `cmd+shift+e`
  * Search:   `cmd+shift+f`
- */
-
-/**
- * Quick view
- * `ctrl+q`
+ *
+ * ...or via quick view
+ * `ctrl+q` (_not_ `cmd+q`)
  */
 
 /**

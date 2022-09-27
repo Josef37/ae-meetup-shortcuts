@@ -1,9 +1,9 @@
 /**
- * Close editor
- * `cmd+w`
- *
  * New editor
  * `cmd+n`
+ *
+ * Close editor
+ * `cmd+w`
  *
  * New window
  * `cmd+shift+n`
@@ -13,8 +13,11 @@
  * Split editor
  * `cmd+\`
  *
- * Move editor
+ * Move editor to other group
  * `cmd+ctrl+left/right`
+ *
+ * Move editor
+ * `cmd+k cmd+shift+left/right`
  */
 
 /**
