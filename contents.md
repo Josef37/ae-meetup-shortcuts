@@ -2,40 +2,22 @@
 
 ## Thoughts
 
-- Terminal aliases are great
-  Especially for "better" commands which are harder to write, i.e. `git push --force-with-lease -> gpf`
-- Haven't done, but switch esc and capslock
+- Aliases are great - i.e. oh-my-zsh plugins:  
+  `git push --force-with-lease` becomes `gpf`
+- Haven't done, but switch `esc` and `capslock`
 - Look for shortcut opportunities when doing easy tasks
 
 ## General
 
-- Window Management
-  - `cmd+tab` and ``cmd+` `` to switch
-  - `cmd+n` = new
-  - `cmd+q` = quit
-- Desktop/Space Management
-  - `ctrl+arrow` = trackpad with three fingers
-  - `ctrl+1/2/3/...` (set in settings)
-  - Uncheck "rearrange spaces" in "System pref. > Mission control"
-- Tab Management
-  - `cmd+t` and `cmd+w`
-  - `ctrl+tab` or `cmd+opt+[` and `cmd+opt+]`
-- General 
-  - `cmd+?` = search help/toolbar
-  - `cmd+z` and `cmd+shift+z` :)
-  - `cmd/opt+arrow/delete` text navigation/editing
-  - `cmd+a` select all
-  - `cmd+s` save
-  - `cmd+x/c/v` cut/copy/paste
-  - `cmd+o` open (file)
-  - `cmd+r` refresh
-  - `cmd+p` print
-  - `cmd+f` search
-  - `cmd+opt+shift+v` paste without formatting
-  - `cmd/opt/shift+click` multi-select
-- Slack
-  - Has good shortcut support
-  - `cmd+up` to edit last message
+- Faster desktop switching  
+  `cmd+tab` or `ctrl+1/2/3/...` instead of `ctrl+arrow` or gesture
+- Uncheck "rearrange spaces" in "System pref. > Mission control"
+- Search the toolbar  
+  `cmd+?`
+- Typical keyboard shortcuts reference  
+  `cmd+/`
+- Edit last message in Slack  
+  `cmd+up` (or just `up` depending on setting)
 
 ## VSCode
 
