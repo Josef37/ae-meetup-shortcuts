@@ -11,6 +11,11 @@ const anotherObject = {
 };
 
 /**
+ * Does something. Ignore for now :)
+ */
+const transform = (value: string) => "prefix_" + value + "_suffix";
+
+/**
  * Trigger suggestion
  * `ctrl+space`
  *
@@ -49,10 +54,13 @@ const arrow = (argument: string) => argument;
  * `f12` or `cmd+click`
  * Open definition to side
  * `cmd+k f12` or `cmd+opt+click`
+ * Peek definition
+ * `opt+f12`
  *
  * Show hover
  * `cmd+k cmd+i`
  */
+transform("randomStuff");
 
 /**
  * Change language + Format

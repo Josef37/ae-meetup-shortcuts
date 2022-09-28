@@ -1,19 +1,11 @@
 /**
  * Replace (also works when already searching)
- * `cmd+shift+f`
+ * `cmd+opt+f`
  *
  * @todo Find the word "worts" and replace it with "words"
  */
 const spelling =
   "One of these words is not spelled words, but more like worts. Does it even belong to the set of words?";
-
-/**
- * Toggle search mode
- * case:      `cmd+opt+c`
- * regex:     `cmd+opt+r`
- * word:      `cmd+opt+w`
- * selection: `cmd+opt+l`
- */
 
 /**
  * Replace preserving case (button in search modal)

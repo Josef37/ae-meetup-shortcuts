@@ -23,7 +23,7 @@ Look for shortcut opportunities when doing easy tasks. They're often written dow
 
 # macOS
 
-* Search the toolbar: <kbd>⌘</kbd>+<kbd>?</kbd>
+* Search the toolbar: (US) <kbd>⌘</kbd>+<kbd>?</kbd>, (DE) <kbd>⌘</kbd>+<kbd>/</kbd>
 * Typical keyboard shortcuts reference: <kbd>⌘</kbd>+<kbd>/</kbd>
 * Uncheck "Rearrange spaces" in "System preferences > Mission control"
 * Faster desktop switching  
@@ -50,8 +50,9 @@ There are so much more things to tweak...
 * Shell aliases (`oh-my-zsh` plugins, ...)
 * Remapping keys (switching `esc` and `capslock`, ...)
 * Keyboard layouts (German, English, Dvořák, ...)
-* Other editors (Vim, ...)
-* Operating systems
+* Other editors (Vim, Atom, Sublime, ...), VSCode Extensions
+* Operating systems / Desktop environments
+* Etc...
 
 What's your experience? 
 What did make a difference for you?

@@ -60,21 +60,6 @@ const sort2 = "is ";
 const copyMeFast = "up and down";
 
 /**
- * Indent/outdent lines
- * `cmd+[` and `cmd+]`
- * 
- * @todo align the following text to one tab
- */
-const alignMe = `
-This
-    text
-    is
-        not
-aligned...
-        Send help!
-`;
-
-/**
  * Toggle line comment
  * `cmd+/`
  * 
