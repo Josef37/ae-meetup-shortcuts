@@ -11,3 +11,9 @@ kbd {
 li {
   margin-bottom: 0.5em;
 }
+
+section::after {
+  bottom: 18px;
+  right: 30px;
+  font-family: monospace;
+}
