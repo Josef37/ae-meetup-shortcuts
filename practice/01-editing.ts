@@ -41,6 +41,14 @@ const move3 = "awesome";
 const move2 = "is ";
 
 /**
+ * Copying lines
+ * `opt+shift+up` and `opt+shift+down`
+ * 
+ * @todo duplicate this line up and down
+ */
+const copyMeFast = "up and down";
+
+/**
  * Pro tip: VSCode can sort selected lines by "sort lines asc/desc"
  * Select lines (`cmd+l`) and run "sort lines"
  * 
@@ -51,13 +59,6 @@ const sort1 = "This ";
 const sort3 = "awesome";
 const sort2 = "is ";
 
-/**
- * Copying lines
- * `opt+shift+up` and `opt+shift+down`
- * 
- * @todo duplicate this line up and down
- */
-const copyMeFast = "up and down";
 
 /**
  * Toggle line comment

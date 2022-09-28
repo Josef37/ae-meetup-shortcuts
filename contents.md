@@ -47,6 +47,16 @@ https://keycombiner.com/collections/vscode/
 
 <!-- If you use another editor, try to follow along as well. -->
 <!-- You might know most of these, but at some point in time they surprised me :) -->
+<!-- We might skip a lot. Check out the repo after the talk if you're interested. -->
+<!-- 
+Include:
+- 00-essentials.ts
+- 02-search.ts
+- 03-views.ts
+- 04-editors.ts
+- 05-multiCursor.ts
+- 07-richLanguage.ts
+ -->
 
 Time for some interactive presentation!
 

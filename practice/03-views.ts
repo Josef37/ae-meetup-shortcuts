@@ -7,8 +7,3 @@
  * Show specific sidebars
  * Search: `cmd+shift+f`
  */
-
-/**
- * Toggle Terminal
- * ``ctrl+` ``
- */

@@ -10,7 +10,7 @@ const spelling =
 /**
  * Replace preserving case (button in search modal)
  *
- * @todo replace "List" with "Array"
+ * @todo replace "List" with "Collection"
  */
 const List = () => ({ printList: () => {} });
 const list = List();
