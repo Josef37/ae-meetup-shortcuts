@@ -7,6 +7,8 @@ backgroundPosition: right
 backgroundSize: contain
 ---
 
+<!-- Explain why presentation is in English -->
+
 # Life Hacks for Coders 😎
 
 Shortcuts for macOS and VSCode
@@ -24,7 +26,7 @@ Look for shortcut opportunities when doing easy tasks. They're often written dow
 # macOS
 
 * Search the toolbar: (US) <kbd>⌘</kbd>+<kbd>?</kbd>, (DE) <kbd>⌘</kbd>+<kbd>/</kbd>
-* Typical keyboard shortcuts reference: <kbd>⌘</kbd>+<kbd>/</kbd>
+* Typical keyboard shortcuts reference: (US) <kbd>⌘</kbd>+<kbd>/</kbd>
 * Uncheck "Rearrange spaces" in "System preferences > Mission control"
 * Faster desktop switching  
   <kbd>⌘</kbd>+<kbd>⇥</kbd> or <kbd>⌃</kbd>+<kbd>1/2/...</kbd> 
@@ -43,6 +45,20 @@ https://keycombiner.com/collections/vscode/
 
 ---
 
+<!-- If you use another editor, try to follow along as well. -->
+<!-- You might know most of these, but at some point in time they surprised me :) -->
+
+Time for some interactive presentation!
+
+https://github.com/Josef37/ae-meetup-shortcuts
+
+```
+git clone https://github.com/Josef37/ae-meetup-shortcuts.git
+code ./ae-meetup-shortcuts
+```
+
+---
+
 # Further thoughts
 
 There are so much more things to tweak...
@@ -52,10 +68,9 @@ There are so much more things to tweak...
 * Keyboard layouts (German, English, Dvořák, ...)
 * Other editors (Vim, Atom, Sublime, ...), VSCode Extensions
 * Operating systems / Desktop environments
-* Etc...
-
-What's your experience? 
-What did make a difference for you?
+* And so forth...
+* What's your experience? 
+  What did make a difference for you?
 
 ---
 
